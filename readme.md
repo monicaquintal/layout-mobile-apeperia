@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/monicaquintal" target="_blank"><img align="right" height="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
 <h2>Projeto Apeperia</h2>
-<h3>Curso: Layout responsivos - trabalhando com layouts mobile.</h3>
+<h3>Curso: Layouts responsivos - trabalhando com layouts mobile.</h3>
 <p>ONE | Fase 3 - Especialização Front-End</p>
 </div>
 
@@ -28,4 +28,12 @@ A proposta do curso é o desenvolvimento da Apeperia, de forma responsiva, ou se
 
 [Figma do Projeto!](https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1&t=cbwU7XDe0xgYzjKe-0)
 
-## 📚 Aulas
+## 📚 Aulas:
+
+### Módulo 1: Ferramentas, unidades e imagens.
+Conteúdo:
+- Preparação do ambiente (estruturando HTML, importando reset, fontes e estilos);
+- Analisar e desmembrar o layout recebido;
+- Usar o EMMET para criar blocos de código HTML;
+- Usar as unidades relativas REM e EM;
+- Tipos de imagens e SVGs.
