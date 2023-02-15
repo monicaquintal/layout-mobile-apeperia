@@ -45,3 +45,15 @@ Conteúdo:
 - Conceito de mobile first;
 - Viewport e seu conteúdo;
 - Variáveis CSS.
+
+<hr>
+
+### Módulo 3: Particularidades de telas.
+
+- Utilizar as unidades de viewport;
+- Identificar a diferença entre unidades absolutas e relativas;
+- Analisar as limitações físicas de dispositivos;
+
+<hr>
+
+### Módulo 4: Trabalhando a semântica HTML
