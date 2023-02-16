@@ -52,8 +52,16 @@ Conteúdo:
 
 - Utilizar as unidades de viewport;
 - Identificar a diferença entre unidades absolutas e relativas;
-- Analisar as limitações físicas de dispositivos;
+- Analisar as limitações físicas de dispositivos.
 
 <hr>
 
-### Módulo 4: Trabalhando a semântica HTML
+### Módulo 4: Trabalhando a semântica HTML.
+
+- Como lidar com as imagens do layout que recebemos;
+- Tags e atributos que têm mais função de semântica do que estilo;
+- A importância de escrever um código semântico.
+
+<hr>
+
+### Módulo 5:
