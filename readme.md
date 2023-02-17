@@ -64,4 +64,9 @@ Conteúdo:
 
 <hr>
 
-### Módulo 5:
+### Módulo 5: Evoluindo do mobile ao desktop.
+
+- Informações sobre [breakpoints](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/);
+- Criar estilizações diferentes para diversos dispositivos com media queries;
+- Adaptar estrutura e conteúdo para layouts diferentes;
+- Progredir de um layout mobile até um layout para desktop.
